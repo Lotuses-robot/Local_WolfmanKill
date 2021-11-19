@@ -16,7 +16,7 @@
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/zk0i8wld.png)
 
-3、分配好客户端，直接打包 `Client.exe` 和 `conf.ini` 即可（`config.ini` 需要配置好）
+3、分配好客户端，直接打包 `Client.exe` 和 `conf.ini` 即可（`config.ini` 需要配置好 原图链接放这里了 [OK](https://cdn.luogu.com.cn/upload/image_hosting/d39b6duu.png)）
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/d39b6duu.png)
 
